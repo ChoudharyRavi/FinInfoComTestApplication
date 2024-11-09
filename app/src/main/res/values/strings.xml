@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinInfoComTestApplication</string>
+    <string name="odd_numbers">Odd Numbers</string>
+    <string name="even_numbers">Even Numbers</string>
+    <string name="prime_numbers">Prime Numbers</string>
+    <string name="fibonacci_numbers">Fibonacci Numbers</string>
+</resources>
